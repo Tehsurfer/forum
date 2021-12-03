@@ -270,7 +270,7 @@ export default {
     },
   },
   mounted() {
-    // this.startAudio();
+    this.startAudio();
   },
   methods: {
     startAudio() {
